@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "03b913db0c11d336",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08b7458cb600ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4832cce53e9744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/代码随想录学习笔记.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "代码随想录学习笔记"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e85e9ca7ae30fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "736069c9a4cad447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/代码随想录学习笔记.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "代码随想录学习笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ee660e28ec62ecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ec6d181dcf39d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2968cb467bdcfe9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "64b42559f3f5b2c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "657b39b4ca69f553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "271b595f7a7ebf04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e4be0cf6236494",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode/代码随想录学习笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "代码随想录学习笔记 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6864b25387818855",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c02fc69562f01a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa8346b1ee9f95a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8e22c540c5ad95c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "f6ff4738839f5cc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5c1973c30e342cb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode/代码随想录学习笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "代码随想录学习笔记 的大纲"
+            }
+          },
+          {
+            "id": "b00950cff9078319",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "736069c9a4cad447",
+  "lastOpenFiles": [
+    "img/77..md",
+    "leetcode/代码随想录学习笔记.md",
+    "img",
+    "leetcode/img/236.二叉树的最近公共祖先_1.png",
+    "leetcode/img/77.组合_1.png",
+    "leetcode/img/77.组合_1.png.crdownload"
+  ]
+}
